@@ -38,6 +38,7 @@ Every video prompt MUST make the person sound like a REAL human talking to a REA
 - **Change HOW they say it, not WHAT they say.** Keep the user's exact words unless they ask for changes.
 - **Open and close on energetic words** — never end a line on a flat product word like "app."
 - **Spell tricky words/brands phonetically so TTS says them right:** "In and Out" (not In-N-Out); genes/acronyms letter-by-letter like "p-p-a-r-g." Never trust the model to pronounce acronyms or brand names.
+- **Put the phonetic spelling ONCE — only inside the spoken dialogue line.** NEVER also add a separate stage cue like "saying the gene name letter by letter: X" right before the line that already contains X, and don't repeat the spelled letters in the Delivery paragraph either. Duplicating it makes the model say the gene name TWICE (a wasted generation). One instance, in the spoken line, only.
 - **One clear hand/phone movement at a time** — no vague "gesturing" (causes weird AI hands). Anchor a hand (on hip / at side).
 - **Always a modern iPhone**, never "walkie-talkie" (adds an antenna).
 - **Friend-filmed = the friend IS the camera and is NEVER in frame** (unless friends are meant to be visible at a table). State "only [person] is visible, no extra hands or arms."
