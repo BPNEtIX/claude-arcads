@@ -16,6 +16,7 @@ Fit Formula). Update this every time a new episode script is written.
 | CLOCK | 1 | Ep.9 |
 | MC4R | 1 | Ep.10 |
 | ACE | 1 | Ep.11 |
+| MTOR | 1 | Ep.12 |
 
 ## Episode log
 
@@ -32,6 +33,7 @@ Fit Formula). Update this every time a new episode script is written.
 | 9 | CLOCK | meal timing / eating rhythm | café | white long-sleeve |
 | 10 | MC4R | portion control / hunger & fullness | gym training floor | navy tee |
 | 11 | ACE | sodium / salt sensitivity | kitchen | burgundy tee |
+| 12 | MTOR | protein / muscle synthesis / timing | gym (weights) | heather-blue tee |
 
 ## Fresh genes not yet used (ideas for future episodes)
 
