@@ -43,6 +43,7 @@ Every video prompt MUST make the person sound like a REAL human talking to a REA
 - **Always a modern iPhone**, never "walkie-talkie" (adds an antenna).
 - **Friend-filmed = the friend IS the camera and is NEVER in frame** (unless friends are meant to be visible at a table). State "only [person] is visible, no extra hands or arms."
 - **~3 words/second. ~45 words max for a 15s clip.** Don't cram — it rushes and gets cut off. Flag when a script is too long and offer a trim or extend-and-stitch.
+- **Frame WIDE enough that the body isn't cut off on the sides.** In 9:16, a "medium shot waist-up" lets the subject drift too close so arms/shoulders clip the edges when they gesture. Use a medium-wide shot from roughly the hips up, subject centered with clear margin on BOTH sides, never a tight close-up — and state that even when gesturing, arms and shoulders stay fully in frame and are not cropped by the edges.
 
 ---
 
