@@ -18,6 +18,7 @@ Fit Formula). Update this every time a new episode script is written.
 | ACE | 1 | Ep.11 |
 | MTOR | 1 | Ep.12 |
 | CYP1A2 | 1 | Ep.13 |
+| FADS1 | 1 | Ep.14 |
 
 ## Episode log
 
@@ -36,6 +37,7 @@ Fit Formula). Update this every time a new episode script is written.
 | 11 | ACE | sodium / salt sensitivity | kitchen | burgundy tee |
 | 12 | MTOR | protein / muscle synthesis / timing | gym (weights) | heather-blue tee |
 | 13 | CYP1A2 | caffeine metabolism / pre-workout timing | outdoor morning jog path (dawn, to-go coffee) | black hoodie |
+| 14 | FADS1 | omega-3 processing / healthy fats | kitchen (omega-3 foods on counter) | oatmeal-cream tee |
 
 ## Fresh genes not yet used (ideas for future episodes)
 
@@ -60,6 +62,7 @@ said as words/syllables, not spelled out.
 | MC4R | m-c-4-r | ✅ |
 | CLOCK | CLOCK (said as the word "clock") | ✅ |
 | CYP1A2 | sip one ay two  (spaces, NOT hyphens) | ✅ (user-confirmed) |
+| FADS1 | fads one  (spaces, NOT hyphens) | ✅ (user-confirmed) |
 | ACE | pending — word "ace" OR letters "ay-see-ee" | ❓ confirm |
 | MTOR | pending — "em-tor" OR letters "m-t-o-r" | ❓ confirm |
 
