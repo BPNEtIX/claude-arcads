@@ -35,7 +35,7 @@ Fit Formula). Update this every time a new episode script is written.
 | 10 | MC4R | portion control / hunger & fullness | gym training floor | navy tee |
 | 11 | ACE | sodium / salt sensitivity | kitchen | burgundy tee |
 | 12 | MTOR | protein / muscle synthesis / timing | gym (weights) | heather-blue tee |
-| 13 | CYP1A2 | caffeine metabolism / pre-workout timing | kitchen (early morning, coffee) | black hoodie |
+| 13 | CYP1A2 | caffeine metabolism / pre-workout timing | outdoor morning jog path (dawn, to-go coffee) | black hoodie |
 
 ## Fresh genes not yet used (ideas for future episodes)
 
