@@ -45,9 +45,26 @@ Fit Formula). Update this every time a new episode script is written.
 - **APOA2** — response to saturated fat
 - **TAS1R2** — sweet taste perception
 
-## Notes
-- Genes/acronyms are spelled phonetically letter-by-letter in the spoken line ONLY
-  (e.g. "p-p-a-r-g", "f-t-o", "f-a-b-p-2", "l-e-p-r", "a-d-i-p-o-q"). Never duplicate
-  the spelling as a separate stage cue (makes the model say it twice).
-- "ACE" gene is ambiguous ("a-c-e" spells the word "ace") — confirm letters vs word
-  before generating.
+## Gene pronunciation guide — write EXACTLY this in the spoken line (once, in the line only)
+
+Write the gene the way it actually SOUNDS, not just letter-by-letter. Some genes are
+said as words/syllables, not spelled out.
+
+| Gene | Write in prompt as | Confirmed? |
+|------|--------------------|-----------|
+| PPARG | p-p-a-r-g | ✅ |
+| FTO | f-t-o | ✅ |
+| FABP2 | f-a-b-p-2 | ✅ |
+| LEPR | l-e-p-r | ✅ |
+| ADIPOQ | a-d-i-p-o-q | ✅ |
+| MC4R | m-c-4-r | ✅ |
+| CLOCK | CLOCK (said as the word "clock") | ✅ |
+| CYP1A2 | sip-one-ay-two | ✅ (user-confirmed) |
+| ACE | pending — word "ace" OR letters "ay-see-ee" | ❓ confirm |
+| MTOR | pending — "em-tor" OR letters "m-t-o-r" | ❓ confirm |
+
+Rules:
+- Put the phonetic spelling ONCE, in the spoken line only. Never repeat it as a stage
+  cue (makes the model say it twice = wasted generation).
+- For any NON-obvious gene, confirm the pronunciation with the user BEFORE generating,
+  then record it in this table so we reuse it.
