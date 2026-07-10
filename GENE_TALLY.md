@@ -59,11 +59,14 @@ said as words/syllables, not spelled out.
 | ADIPOQ | a-d-i-p-o-q | ✅ |
 | MC4R | m-c-4-r | ✅ |
 | CLOCK | CLOCK (said as the word "clock") | ✅ |
-| CYP1A2 | sip-one-ay-two | ✅ (user-confirmed) |
+| CYP1A2 | sip one ay two  (spaces, NOT hyphens) | ✅ (user-confirmed) |
 | ACE | pending — word "ace" OR letters "ay-see-ee" | ❓ confirm |
 | MTOR | pending — "em-tor" OR letters "m-t-o-r" | ❓ confirm |
 
 Rules:
+- **Hyphens = spell it out letter-by-letter.** Only use hyphens for genes meant to be
+  said as letters ("p-p-a-r-g"). For genes said as words/syllables, write plain words
+  with SPACES ("sip one ay two") — hyphens will make the TTS spell it wrong.
 - Put the phonetic spelling ONCE, in the spoken line only. Never repeat it as a stage
   cue (makes the model say it twice = wasted generation).
 - For any NON-obvious gene, confirm the pronunciation with the user BEFORE generating,
