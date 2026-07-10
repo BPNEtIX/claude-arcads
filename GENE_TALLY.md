@@ -15,6 +15,7 @@ Fit Formula). Update this every time a new episode script is written.
 | LIPC | 1 | Ep.8 |
 | CLOCK | 1 | Ep.9 |
 | MC4R | 1 | Ep.10 |
+| ACE | 1 | Ep.11 |
 
 ## Episode log
 
@@ -30,10 +31,10 @@ Fit Formula). Update this every time a new episode script is written.
 | 8 | LIPC | exercise / blood sugar / metabolic health | glass-walled gym office | grey quarter-zip |
 | 9 | CLOCK | meal timing / eating rhythm | café | white long-sleeve |
 | 10 | MC4R | portion control / hunger & fullness | gym training floor | navy tee |
+| 11 | ACE | sodium / salt sensitivity | kitchen | burgundy tee |
 
 ## Fresh genes not yet used (ideas for future episodes)
 
-- **ACE** — sodium sensitivity (note: pronounce as word "ace" or letters "ay-see-ee" — confirm)
 - **TCF7L2** — blood sugar / carb response
 - **MTHFR** — B-vitamin metabolism
 - **UCP1** — how you burn energy / calories
