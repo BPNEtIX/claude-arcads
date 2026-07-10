@@ -46,6 +46,7 @@ Every video prompt MUST make the person sound like a REAL human talking to a REA
 - **Friend-filmed = the friend IS the camera and is NEVER in frame** (unless friends are meant to be visible at a table). State "only [person] is visible, no extra hands or arms."
 - **~3 words/second. ~45 words max for a 15s clip.** Don't cram — it rushes and gets cut off. Flag when a script is too long and offer a trim or extend-and-stitch.
 - **Frame WIDE enough that the body isn't cut off on the sides.** In 9:16, a "medium shot waist-up" lets the subject drift too close so arms/shoulders clip the edges when they gesture. Use a medium-wide shot from roughly the hips up, subject centered with clear margin on BOTH sides, never a tight close-up — and state that even when gesturing, arms and shoulders stay fully in frame and are not cropped by the edges.
+- **Keep it ONE continuous take — no cuts.** Do NOT describe cutaway-bait: a food spread, product close-ups, or "gesture toward the [object]." Seedance treats those as separate shots and inserts disjointed B-roll that doesn't match, turning one clip into a choppy multi-scene mess. Keep the camera on the person the whole time and state explicitly: "a single continuous shot, no cuts, no edits, no scene changes; the camera stays on him the entire time." Matching props may exist subtly in the background but must NEVER be a described focal object to cut to, and never tell the subject to gesture at them.
 
 ---
 
