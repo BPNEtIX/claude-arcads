@@ -14,6 +14,7 @@ Fit Formula). Update this every time a new episode script is written.
 | ADIPOQ | 1 | Ep.6 |
 | LIPC | 1 | Ep.8 |
 | ACE | 1 | Ep.9 |
+| CLOCK | 1 | Ep.10 |
 
 ## Episode log
 
@@ -28,6 +29,7 @@ Fit Formula). Update this every time a new episode script is written.
 | 7 | PPARG (callback) | fats/carbs response | farmers market | olive button-up |
 | 8 | LIPC | exercise / blood sugar / metabolic health | glass-walled gym office | grey quarter-zip |
 | 9 | ACE | sodium sensitivity / processed foods | kitchen | sage-green polo |
+| 10 | CLOCK | meal timing / eating rhythm | café | white long-sleeve |
 
 ## Fresh genes not yet used (ideas for future episodes)
 
