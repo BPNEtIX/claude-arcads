@@ -17,6 +17,7 @@ Fit Formula). Update this every time a new episode script is written.
 | MC4R | 1 | Ep.10 |
 | ACE | 1 | Ep.11 |
 | MTOR | 1 | Ep.12 |
+| CYP1A2 | 1 | Ep.13 |
 
 ## Episode log
 
@@ -34,6 +35,7 @@ Fit Formula). Update this every time a new episode script is written.
 | 10 | MC4R | portion control / hunger & fullness | gym training floor | navy tee |
 | 11 | ACE | sodium / salt sensitivity | kitchen | burgundy tee |
 | 12 | MTOR | protein / muscle synthesis / timing | gym (weights) | heather-blue tee |
+| 13 | CYP1A2 | caffeine metabolism / pre-workout timing | kitchen (early morning, coffee) | black hoodie |
 
 ## Fresh genes not yet used (ideas for future episodes)
 
@@ -42,7 +44,6 @@ Fit Formula). Update this every time a new episode script is written.
 - **UCP1** — how you burn energy / calories
 - **APOA2** — response to saturated fat
 - **TAS1R2** — sweet taste perception
-- **CYP1A2** — caffeine metabolism
 
 ## Notes
 - Genes/acronyms are spelled phonetically letter-by-letter in the spoken line ONLY
